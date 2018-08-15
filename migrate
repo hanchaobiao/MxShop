@@ -1,0 +1,2 @@
+python manage.py makemigrations  # 生成数据库程序执行脚本
+python manage.py migrate # 运行生成的脚本

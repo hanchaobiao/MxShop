@@ -1,0 +1,22 @@
+django
+djangorestframework
+markdown
+django-filter
+mysqlclient
+pillow # 上传图片处理图片的包
+future # xadmin依赖
+# xadmin 依赖
+django-crispy-forms
+django-reversion
+django-formatools
+httplib2
+six
+django-import-export
+xlwt
+xlswriter
+
+# djangorestframework 依赖包
+coreapi  # 自动生成api文档
+django-guardian
+django-cors-headers # django处理跨域请求问题，可以不依靠前端
+djangorestframework-jwt # jwt接口认证
